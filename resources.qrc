@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file alias="bolt.svg">ui/assets/bolt.svg</file>
+        <file alias="bolt.png">ui/assets/bolt.png</file>
+        <file alias="download.svg">ui/assets/download.svg</file>
+        <file alias="paste.svg">ui/assets/paste.svg</file>
+        <file alias="merge.svg">ui/assets/merge.svg</file>
+    </qresource>
+</RCC>
